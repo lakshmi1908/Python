@@ -1,2 +1,2 @@
-fruits = ['apple', 'kiwi', 'mango']
+fruits = ['apple', 'kiwi', 'mango', 'strawberry']
 fruits.append("kiwi")
